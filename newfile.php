@@ -1,4 +1,4 @@
 <?php
-echo "HELLO !";
+echo "HELLO ! Wold";
 echo "SARAWUT";
 ?>
